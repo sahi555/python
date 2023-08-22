@@ -1,2 +1,2 @@
 # python
-In this files we main focus on python program from the basic senarios.
+In this,we mainly focus on python program from the basic senarios.
